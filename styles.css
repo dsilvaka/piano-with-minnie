@@ -223,8 +223,8 @@ p {
   align-items: center;
   gap: 9px;
   margin-top: 22px;
-  padding: 10px 14px;
-  border: 1px solid var(--line);
+  padding: 12px 14px;
+  border: 2px solid var(--line);
   border-radius: 999px;
   background: rgba(255, 253, 249, 0.88);
   color: var(--rose-dark);
