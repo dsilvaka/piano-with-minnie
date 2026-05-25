@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Piano lesson room placeholder</title>
+  <desc id="desc">A soft illustrated room with a piano and music stand.</desc>
+  <rect width="1200" height="800" fill="#fff8f3"/>
+  <rect x="0" y="540" width="1200" height="260" fill="#f2d8cf"/>
+  <rect x="155" y="145" width="340" height="265" rx="18" fill="#f7e5e8"/>
+  <rect x="705" y="138" width="250" height="310" rx="18" fill="#f7e5e8"/>
+  <g transform="translate(250 430)">
+    <rect x="0" y="0" width="660" height="95" rx="18" fill="#3f3334"/>
+    <rect x="50" y="-126" width="560" height="150" rx="18" fill="#4f3d3f"/>
+    <rect x="84" y="22" width="492" height="54" rx="8" fill="#fffdf9"/>
+    <g fill="#292424">
+      <rect x="135" y="22" width="22" height="38" rx="4"/>
+      <rect x="210" y="22" width="22" height="38" rx="4"/>
+      <rect x="285" y="22" width="22" height="38" rx="4"/>
+      <rect x="410" y="22" width="22" height="38" rx="4"/>
+      <rect x="485" y="22" width="22" height="38" rx="4"/>
+    </g>
+    <rect x="72" y="95" width="42" height="165" rx="10" fill="#3f3334"/>
+    <rect x="546" y="95" width="42" height="165" rx="10" fill="#3f3334"/>
+  </g>
+  <g fill="none" stroke="#d6a84d" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M375 215v-85l70-14v88"/>
+    <circle cx="354" cy="222" r="24" fill="#d6a84d" stroke="none"/>
+    <circle cx="425" cy="207" r="24" fill="#d6a84d" stroke="none"/>
+    <path d="M785 270h88M785 315h88M785 360h88"/>
+  </g>
+</svg>
