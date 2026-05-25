@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Child piano lesson placeholder</title>
+  <desc id="desc">A warm illustrated placeholder showing piano keys, music notes, and soft flowers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff8f3"/>
+      <stop offset="0.55" stop-color="#f7dce1"/>
+      <stop offset="1" stop-color="#f0c5cc"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d6a84d"/>
+      <stop offset="1" stop-color="#f1d58a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1010" cy="150" r="108" fill="#ffffff" opacity=".38"/>
+  <circle cx="180" cy="640" r="150" fill="#ffffff" opacity=".32"/>
+  <g transform="translate(115 420)">
+    <rect x="0" y="0" width="970" height="210" rx="26" fill="#3e3334"/>
+    <rect x="42" y="28" width="886" height="144" rx="14" fill="#fffdf9"/>
+    <g fill="#2d2929">
+      <rect x="106" y="28" width="34" height="88" rx="5"/>
+      <rect x="202" y="28" width="34" height="88" rx="5"/>
+      <rect x="298" y="28" width="34" height="88" rx="5"/>
+      <rect x="446" y="28" width="34" height="88" rx="5"/>
+      <rect x="542" y="28" width="34" height="88" rx="5"/>
+      <rect x="638" y="28" width="34" height="88" rx="5"/>
+      <rect x="786" y="28" width="34" height="88" rx="5"/>
+    </g>
+  </g>
+  <g fill="none" stroke="url(#gold)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity=".78">
+    <path d="M332 255v-126l94-20v128"/>
+    <circle cx="304" cy="263" r="30" fill="#f7d58a" stroke="none"/>
+    <circle cx="398" cy="245" r="30" fill="#f7d58a" stroke="none"/>
+    <path d="M805 285v-95l78-22v97"/>
+    <circle cx="780" cy="292" r="26" fill="#f7d58a" stroke="none"/>
+    <circle cx="858" cy="270" r="26" fill="#f7d58a" stroke="none"/>
+  </g>
+  <g fill="#b45e6d" opacity=".75">
+    <circle cx="548" cy="188" r="20"/>
+    <circle cx="588" cy="188" r="20"/>
+    <circle cx="568" cy="166" r="20"/>
+    <circle cx="568" cy="210" r="20"/>
+    <circle cx="568" cy="188" r="10" fill="#f3d47d"/>
+  </g>
+</svg>
